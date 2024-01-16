@@ -2,15 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
+![Screenshot_2024-01-16-20-16-29-57](https://github.com/Wisnusat/flutter_motion_1/assets/63875662/8915fd7b-c661-4678-8b05-d607206d9ae0)
+![Screenshot_2024-01-16-20-16-35-16](https://github.com/Wisnusat/flutter_motion_1/assets/63875662/e7ee29bd-3d73-49d0-bba8-68b405ebdd84)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
